@@ -9,7 +9,7 @@ This project is a Flask-based web application that predicts diamond prices based
 
 Clone this repo:
 ```
-https://github.com/Metaphysicist1/ml-zoomcamp.git
+https://github.com/Metaphysicist1/Diamond-Price-Prediction.git
 ```
 
 Or pull docker Image
