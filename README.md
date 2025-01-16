@@ -1,25 +1,8 @@
-# XGBoost Prediction API
+# Diamond Price Prediction
 
 ## Description
 This project is a Flask-based web application that predicts diamond prices based on various input features using an XGBoost model.
 
-## Folder Structure
-
-├── data
-│   └── diamonds.csv
-├── Dockerfile
-├── models
-│   ├── model.joblib
-│   └── scaler.joblib
-├── Pipfile
-├── Pipfile.lock
-├── predict.py
-├── README.md
-├── requirements.txt
-├── scripts
-│   ├── 01_explore.ipynb
-│   └── exp.ipynb
-└── server.py
 
 
 ## Installation
